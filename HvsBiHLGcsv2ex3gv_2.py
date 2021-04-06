@@ -1,0 +1,5 @@
+
+def shortestDistance(txt):
+  x1, y1, x2, y2 = [float(t) for t in txt.split(',')]
+  return round(((x1-x2)**2 + (y1-y2)**2)**0.5, 2)
+

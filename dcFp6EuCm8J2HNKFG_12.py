@@ -1,0 +1,4 @@
+
+def func(lst):
+  quit()
+

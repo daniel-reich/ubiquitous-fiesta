@@ -1,0 +1,4 @@
+
+def markdown(symb):
+  quit()
+

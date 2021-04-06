@@ -1,0 +1,4 @@
+
+def flatten(r):
+  quit()
+

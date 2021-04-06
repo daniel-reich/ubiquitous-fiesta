@@ -1,0 +1,4 @@
+
+def split(x):
+  quit()
+

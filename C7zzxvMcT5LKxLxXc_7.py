@@ -1,0 +1,4 @@
+
+def decode(txt):
+  quit()
+

@@ -1,0 +1,3 @@
+
+eq=lambda x: x
+

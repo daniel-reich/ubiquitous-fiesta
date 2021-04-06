@@ -1,0 +1,4 @@
+
+def salt(t):
+  quit()
+

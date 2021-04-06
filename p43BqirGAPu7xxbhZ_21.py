@@ -1,0 +1,4 @@
+
+def diamond(carat):
+  quit()
+

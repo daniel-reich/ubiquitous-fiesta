@@ -1,0 +1,5 @@
+
+def bw_transform(txt):
+    rotations = sorted(txt[i:] + txt[:i] for i in range(len(txt)))
+    return ''.join(i[-1] for i in rotations)
+

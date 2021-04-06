@@ -1,0 +1,3 @@
+
+query = "SELECT SALARY FROM EMPLOYEES WHERE NAME = 'Adam'"
+

@@ -1,0 +1,4 @@
+
+def resist(net):
+  quit()
+

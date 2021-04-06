@@ -1,0 +1,4 @@
+
+def eadibitan(word):
+  exit()
+

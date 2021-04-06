@@ -1,0 +1,5 @@
+
+from re import search
+def assignment(date):
+  return None != search(r"(^\d{4})([//])(\d{2})\2(\d{2}$)", date)
+

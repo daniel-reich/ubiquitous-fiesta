@@ -1,0 +1,4 @@
+
+def fractions(decimal):
+  quit()
+

@@ -1,0 +1,6 @@
+
+import sqlite3
+def longer_than_n_pages(pages):
+  c.execute('SELECT * FROM Book WHERE Pages> ?',(pages,))
+  return c.fetchall()
+

@@ -1,0 +1,3 @@
+
+lambdaFunc = lambda x: x
+
